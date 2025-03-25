@@ -6,7 +6,7 @@ body {/*this is body style*/
     background-size: cover;
 }
 
-.nav-container ul {
+.nav-container ul {/*this is body style*/
     list-style: none;
     display: flex;
     gap: 20px;
